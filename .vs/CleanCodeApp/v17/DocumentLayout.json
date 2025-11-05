@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2480AA71-06A7-42D2-A44A-0FF5E4CA69E8}|CleanCodeApp.Api\\CleanCodeApp.Api.csproj|c:\\users\\catalina\\downloads\\cleancode project (1)\\cleancode\\cleancodeapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2480AA71-06A7-42D2-A44A-0FF5E4CA69E8}|CleanCodeApp.Api\\CleanCodeApp.Api.csproj|solutionrelative:cleancodeapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9125A914-6042-483B-A44F-20F5523BEE11}|CleanCodeApp.Infrastructure\\CleanCodeApp.Infrastructure.csproj|c:\\users\\catalina\\downloads\\cleancode project (1)\\cleancode\\cleancodeapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9125A914-6042-483B-A44F-20F5523BEE11}|CleanCodeApp.Infrastructure\\CleanCodeApp.Infrastructure.csproj|solutionrelative:cleancodeapp.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F2954-DF1D-4C55-A4C6-F838771473E2}|CleanCodeApp.Application\\CleanCodeApp.Application.csproj|c:\\users\\catalina\\downloads\\cleancode project (1)\\cleancode\\cleancodeapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F2954-DF1D-4C55-A4C6-F838771473E2}|CleanCodeApp.Application\\CleanCodeApp.Application.csproj|solutionrelative:cleancodeapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2480AA71-06A7-42D2-A44A-0FF5E4CA69E8}|CleanCodeApp.Api\\CleanCodeApp.Api.csproj|c:\\users\\catalina\\downloads\\cleancode project (1)\\cleancode\\cleancodeapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2480AA71-06A7-42D2-A44A-0FF5E4CA69E8}|CleanCodeApp.Api\\CleanCodeApp.Api.csproj|solutionrelative:cleancodeapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57123F3E-EC8E-4390-BCCF-F1F00AEE28B6}|CleanCodeApp.Domain\\CleanCodeApp.Domain.csproj|c:\\users\\catalina\\downloads\\cleancode project (1)\\cleancode\\cleancodeapp.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57123F3E-EC8E-4390-BCCF-F1F00AEE28B6}|CleanCodeApp.Domain\\CleanCodeApp.Domain.csproj|solutionrelative:cleancodeapp.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57123F3E-EC8E-4390-BCCF-F1F00AEE28B6}|CleanCodeApp.Domain\\CleanCodeApp.Domain.csproj|c:\\users\\catalina\\downloads\\cleancode project (1)\\cleancode\\cleancodeapp.domain\\entities\\taskestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57123F3E-EC8E-4390-BCCF-F1F00AEE28B6}|CleanCodeApp.Domain\\CleanCodeApp.Domain.csproj|solutionrelative:cleancodeapp.domain\\entities\\taskestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9125A914-6042-483B-A44F-20F5523BEE11}|CleanCodeApp.Infrastructure\\CleanCodeApp.Infrastructure.csproj|c:\\users\\catalina\\downloads\\cleancode project (1)\\cleancode\\cleancodeapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9125A914-6042-483B-A44F-20F5523BEE11}|CleanCodeApp.Infrastructure\\CleanCodeApp.Infrastructure.csproj|solutionrelative:cleancodeapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CleanCodeApp.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CleanCodeApp.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:34:10.336Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CleanCodeApp.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "CleanCodeApp.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:34:14.173Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CleanCodeApp.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CleanCodeApp.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:34:17.855Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CleanCodeApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CleanCodeApp.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:34:20.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CleanCodeApp.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Api\\Program.cs",
+              "RelativeToolTip": "CleanCodeApp.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:36:25.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CleanCodeApp.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CleanCodeApp.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:36:14.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskEstado.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Domain\\Entities\\TaskEstado.cs",
+              "RelativeDocumentMoniker": "CleanCodeApp.Domain\\Entities\\TaskEstado.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Downloads\\CleanCode Project (1)\\CleanCode\\CleanCodeApp.Domain\\Entities\\TaskEstado.cs",
+              "RelativeToolTip": "CleanCodeApp.Domain\\Entities\\TaskEstado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:36:09.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
